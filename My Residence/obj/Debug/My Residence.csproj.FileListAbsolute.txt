@@ -1,0 +1,62 @@
+H:\My Residence\My Residence\bin\Debug\My Residence.dll
+H:\My Residence\My Residence\bin\Debug\My Residence.pdb
+H:\My Residence\My Residence\bin\Debug\com.my.residence.live.apk
+H:\My Residence\My Residence\bin\Debug\com.my.residence.live-Signed.apk
+H:\My Residence\My Residence\bin\Debug\Newtonsoft.Json.dll
+H:\My Residence\My Residence\bin\Debug\Newtonsoft.Json.pdb
+H:\My Residence\My Residence\bin\Debug\Newtonsoft.Json.xml
+H:\My Residence\My Residence\obj\Debug\My Residence.dll
+H:\My Residence\My Residence\obj\Debug\My Residence.pdb
+H:\My Residence\My Residence\obj\Debug\android\bin\com.my.residence.live.apk
+H:\My Residence\My Residence\obj\Debug\res\layout\aboutview.xml
+H:\My Residence\My Residence\obj\Debug\res\layout\hometabview.xml
+H:\My Residence\My Residence\obj\Debug\res\layout\mainroomfragmentview.xml
+H:\My Residence\My Residence\obj\Debug\res\layout\mainroomlistitem.xml
+H:\My Residence\My Residence\obj\Debug\res\layout\kitchenfragmentview.xml
+H:\My Residence\My Residence\obj\Debug\res\layout\garagefragmentview.xml
+H:\My Residence\My Residence\obj\Debug\res\layout\kitchenlistitem.xml
+H:\My Residence\My Residence\obj\Debug\res\layout\garagelistitem.xml
+H:\My Residence\My Residence\obj\Debug\res\layout\main.xml
+H:\My Residence\My Residence\obj\Debug\res\values\strings.xml
+H:\My Residence\My Residence\obj\Debug\res\drawable\welcome.png
+H:\My Residence\My Residence\obj\Debug\res\drawable\welcome_1.png
+H:\My Residence\My Residence\obj\Debug\res\drawable\ic_launcher.png
+H:\My Residence\My Residence\obj\Debug\res\drawable\mipmap-hdpi\ic_launcher.png
+H:\My Residence\My Residence\obj\Debug\res\drawable\mipmap-mdpi\ic_launcher.png
+H:\My Residence\My Residence\obj\Debug\res\drawable\mipmap-xhdpi\ic_launcher.png
+H:\My Residence\My Residence\obj\Debug\res\drawable\mipmap-xxhdpi\ic_launcher.png
+H:\My Residence\My Residence\obj\Debug\res\drawable\mipmap-xxxhdpi\ic_launcher.png
+H:\My Residence\My Residence\obj\Debug\R.cs.flag
+H:\My Residence\My Residence\obj\Debug\uploadflags.txt
+H:\My Residence\My Residence\bin\Debug\My Residence.dll.mdb
+H:\My Residence\My Residence\bin\Debug\Java.Interop.dll.mdb
+H:\My Residence\My Residence\bin\Debug\Microsoft.CSharp.dll.mdb
+H:\My Residence\My Residence\bin\Debug\Mono.Android.dll.mdb
+H:\My Residence\My Residence\bin\Debug\Mono.CSharp.dll.mdb
+H:\My Residence\My Residence\bin\Debug\mscorlib.dll.mdb
+H:\My Residence\My Residence\bin\Debug\System.ComponentModel.Composition.dll.mdb
+H:\My Residence\My Residence\bin\Debug\System.Core.dll.mdb
+H:\My Residence\My Residence\bin\Debug\System.dll.mdb
+H:\My Residence\My Residence\bin\Debug\System.IO.Compression.dll.mdb
+H:\My Residence\My Residence\bin\Debug\System.Net.Http.dll.mdb
+H:\My Residence\My Residence\bin\Debug\System.Numerics.dll.mdb
+H:\My Residence\My Residence\bin\Debug\System.Runtime.Serialization.dll.mdb
+H:\My Residence\My Residence\bin\Debug\System.ServiceModel.Internals.dll.mdb
+H:\My Residence\My Residence\bin\Debug\System.Xml.dll.mdb
+H:\My Residence\My Residence\bin\Debug\System.Xml.Linq.dll.mdb
+H:\My Residence\My Residence\obj\Debug\android\assets\Java.Interop.dll.mdb
+H:\My Residence\My Residence\obj\Debug\android\assets\Microsoft.CSharp.dll.mdb
+H:\My Residence\My Residence\obj\Debug\android\assets\Mono.Android.dll.mdb
+H:\My Residence\My Residence\obj\Debug\android\assets\Mono.CSharp.dll.mdb
+H:\My Residence\My Residence\obj\Debug\android\assets\mscorlib.dll.mdb
+H:\My Residence\My Residence\obj\Debug\android\assets\My Residence.dll.mdb
+H:\My Residence\My Residence\obj\Debug\android\assets\System.Core.dll.mdb
+H:\My Residence\My Residence\obj\Debug\android\assets\System.dll.mdb
+H:\My Residence\My Residence\obj\Debug\android\assets\System.Net.Http.dll.mdb
+H:\My Residence\My Residence\obj\Debug\android\assets\System.Numerics.dll.mdb
+H:\My Residence\My Residence\obj\Debug\android\assets\System.Runtime.Serialization.dll.mdb
+H:\My Residence\My Residence\obj\Debug\android\assets\System.ServiceModel.Internals.dll.mdb
+H:\My Residence\My Residence\obj\Debug\android\assets\System.Xml.dll.mdb
+H:\My Residence\My Residence\obj\Debug\android\assets\System.Xml.Linq.dll.mdb
+H:\My Residence\My Residence\obj\Debug\My Residence.dll.mdb
+H:\My Residence\My Residence\bin\Debug\My Residence.dll.mdb

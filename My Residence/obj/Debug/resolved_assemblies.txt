@@ -1,0 +1,18 @@
+H:\My Residence\My Residence\obj\Debug\android\assets\My Residence.dll
+H:\My Residence\My Residence\obj\Debug\android\assets\Java.Interop.dll
+H:\My Residence\My Residence\obj\Debug\android\assets\Microsoft.CSharp.dll
+H:\My Residence\My Residence\obj\Debug\android\assets\Mono.Android.dll
+H:\My Residence\My Residence\obj\Debug\android\assets\mscorlib.dll
+H:\My Residence\My Residence\obj\Debug\android\assets\System.Core.dll
+H:\My Residence\My Residence\obj\Debug\android\assets\System.dll
+H:\My Residence\My Residence\obj\Debug\android\assets\System.Net.Http.dll
+H:\My Residence\My Residence\obj\Debug\android\assets\System.Xml.dll
+H:\My Residence\My Residence\obj\Debug\android\assets\System.Xml.Linq.dll
+H:\My Residence\My Residence\obj\Debug\android\assets\Newtonsoft.Json.dll
+H:\My Residence\My Residence\obj\Debug\android\assets\Mono.CSharp.dll
+H:\My Residence\My Residence\obj\Debug\android\assets\System.Runtime.Serialization.dll
+H:\My Residence\My Residence\obj\Debug\android\assets\System.ServiceModel.Internals.dll
+H:\My Residence\My Residence\obj\Debug\android\assets\System.Numerics.dll
+H:\My Residence\My Residence\obj\Debug\android\assets\System.Xml.XmlDocument.dll
+H:\My Residence\My Residence\obj\Debug\android\assets\System.ComponentModel.TypeConverter.dll
+H:\My Residence\My Residence\obj\Debug\android\assets\System.Runtime.Serialization.Formatters.dll
